@@ -16,7 +16,7 @@ paginate: true
 
 ---
 
-# Quem sou eu?
+# Hallison Paz
 
 - Doutorando @IMPA, @Visgraf
 - Co-fundador
@@ -31,6 +31,7 @@ paginate: true
 <!-- ![bg ](#5b3c1e) -->
 <!-- _class: invert -->
 # O que a Inteligência Artificial faz hoje
+<!-- _paginate: false -->
 
 ----
 
@@ -128,15 +129,19 @@ paginate: true
 
 ---
 
-# Como as máquinas aprendem?
+![bg](img/ml-scheme.png)
+<!-- _footer: COMO AS MÁQUINAS APRENDEM? -->
+<!-- # Como as máquinas aprendem? -->
 
 
-- Representação
+<!-- - Representação
 - Modelo Computacional
-- Medida
+- Medida -->
+
+<!-- ![height:400px](img/felca-npc.webp) -->
 
 
-![bg right fit](img/gradient-descent.gif)
+<!-- ![bg right fit](img/gradient-descent.gif) -->
 
 ---
 
@@ -222,6 +227,9 @@ for Real-Time Radiance Field Rendering -->
 ### Problema leve:
 # A gente quer modelar tudo como computável
 
+<!-- _class: invert -->
+<!-- _paginate: false -->
+
 ---
 
 ###### Tudo o que somos é computável?
@@ -260,13 +268,14 @@ for Real-Time Radiance Field Rendering -->
 # A gente quer medir tudo pela capacidade de produção
 
 <!-- _class: invert -->
+<!-- _paginate: false -->
 
 <!-- ---
 
 ![bg](img/wordcloud-metrics.webp) -->
 
 ---
-# Se ninguém quer botar dinheiro, não tem valor.
+# Se não envolve dinheiro, não tem valor.
 #### Pensar não tem valor, executar tem
 <!-- ##### Você é aquilo que você é capaz de produzir? -->
 
@@ -275,7 +284,7 @@ for Real-Time Radiance Field Rendering -->
 
 
 ---
-# Se alguém quer botar dinheiro, tem valor?
+# Se envolve dinheiro, tem valor?
 
 ![bg right:54%](img/felca-npc.webp)
 ![bg right](img/npc-fazendeiro.jpeg)
@@ -283,14 +292,18 @@ for Real-Time Radiance Field Rendering -->
 
 ---
 
-# Há limites para a inteligência artificial?
+<!-- # Há limites para a inteligência artificial?
 
 1. Certamente: o que é computável
-2. Talvez: consciência e pensamento
+2. Talvez: consciência e pensamento -->
+
+![bg fit](img/limites-ia.jpeg)
+
+<!-- _paginate: false -->
 
 ---
 
-# Faz diferença?
+# FAZ DIFERENÇA?
 
 <!-- _class: invert -->
 <!-- _paginate: false -->
