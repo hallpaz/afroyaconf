@@ -9,7 +9,7 @@ paginate: true
 
 ### Hallison Paz - Programação Dinâmica
 
-<!-- ![bg](img/background-AFROYA.png) -->
+![bg opacity:10% grayscale:1](img/horizon.jpg)
 
 <!-- _class: invert -->
 <!-- _paginate: false -->
@@ -264,7 +264,7 @@ for Real-Time Radiance Field Rendering -->
 * Talvez nunca tenham uma resposta universalmente aceita
 
 ---
-### Problema grave
+### Problema grave:
 # A gente quer medir tudo pela capacidade de produção
 
 <!-- _class: invert -->
