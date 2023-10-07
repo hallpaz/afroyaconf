@@ -24,7 +24,7 @@ paginate: true
 - Pesquisador em AI Graphics
 - Engenheiro de Computação @IME
 
-![bg right](img/hallpaz_lion.jpg)
+![bg left](img/hallpaz_lion.png)
 
 ---
 
