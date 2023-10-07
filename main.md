@@ -308,6 +308,19 @@ for Real-Time Radiance Field Rendering -->
 <!-- _class: invert -->
 <!-- _paginate: false -->
 
+---
+
+
+# Obrigado!
+
+##### youtube.com/@pgdinamica
+##### pgdinamica@brunch.ag
+##### hallison@pgdinamica.com
+
+![bg right:55% fit opacity:70%](img/canal-youtube.png)
+
+<!-- _class: invert -->
+<!-- _paginate: false -->
 
 <!-- ---
 
